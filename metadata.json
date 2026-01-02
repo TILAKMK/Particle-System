@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Particles",
+  "description": "An advanced, interactive particle system explorer with hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
